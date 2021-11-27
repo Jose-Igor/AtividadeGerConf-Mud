@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: rgb(255, 110, 50);
+    background-color: rgb(140, 0, 80);
+}
+
+h2{
+    color: orange;
+    background-color: black;
+}
+
+.img-container{
+    text-align: center;
+}
+
+a{
+    color: rgb(0, 130, 170);
+    text-decoration: none;
+    font-family:sans-serif ;
+}
